@@ -1,0 +1,14 @@
+{
+    "name": "crowdflix",
+    "version": "1.0.0",
+    "description": "Crowdflix: Platform for buying, trading, and showcasing iconic movie moments.",
+    "scripts": {
+        "start": "serve -s .",
+        "build": "echo \"No build step required for static page\" && exit 0"
+    },
+    "author": "Cameron Macpherson",
+    "license": "MIT",
+    "devDependencies": {
+        "serve": "^14.2.4"
+    }
+}
